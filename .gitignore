@@ -1,0 +1,4 @@
+venv 
+schema.db
+**/_pycache_
+.pytest_cache
